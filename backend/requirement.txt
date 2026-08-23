@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+apify-client
+langgraph
+langchain-core
+requests
+openpyxl
+pydantic
+typing-extensions
+apify-client
